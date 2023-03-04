@@ -11,8 +11,4 @@ min_version = "0.41"
   name = "lgaida"
   homepage = "http://lgaida.de"
 
-# If porting an existing theme
-[original]
-  name = "wowthemesnet"
-  homepage = "https://www.wowthemes.net/"
-  repo = "https://github.com/wowthemesnet/mediumish-theme-jekyll"
+
